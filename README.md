@@ -13,6 +13,8 @@ shelters close to them and shelters can register themselves.
 
 <h2> <img src="https://i.dlpng.com/static/png/6577858_preview.png" width="50px" align="center"/> How to use? </h2>
 <p> Application still under construction </p>
+
+<p> You can find the backend of the application <a href= "https://github.com/mjulialobo/happy-backend"> HERE! </a>
    
 
  <h2><img src="https://static.thenounproject.com/png/25759-200.png"width="50px" height="50px" align="center"/> Results</h2>
