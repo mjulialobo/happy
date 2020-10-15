@@ -3,12 +3,12 @@
   padding: 0;
   box-sizing: border-box;
 }
+
 body {
-  color: #ffffff;
-  background-color: #ebf2f5;
-  overflow-x: hidden;
-  overflow-y: hidden;
+  color: #fff;
+  background: #ebf2f5;
 }
+
 body,
 input,
 button,
