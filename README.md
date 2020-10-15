@@ -21,6 +21,6 @@ shelters close to them and shelters can register themselves.
 
 <p> Note: gif distorts images and colors </p>
  <h3> Happy</h3>
-<img src ="https://user-images.githubusercontent.com/65983895/95796128-73beb980-0cc2-11eb-8b19-965405f3fc6c.gif"/>
+<img src ="https://user-images.githubusercontent.com/65983895/96078208-12484780-0e88-11eb-83be-8de271e36f86.gif"/>
 
 
