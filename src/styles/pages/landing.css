@@ -1,5 +1,5 @@
 #page-landing {
-  width: 100%;
+  width: 100vw;
   height: 100vh;
   background: linear-gradient(329.54deg, #37c77f 0%, #aadaa9 100%);
   display: flex;
@@ -19,7 +19,7 @@
   justify-content: space-between;
 
   background: url("../../images/background.png") no-repeat 90% center;
-  background-size: 80%;
+  background-size: 70%;
 }
 #page-landing .content-wrapper img {
   width: 250px;

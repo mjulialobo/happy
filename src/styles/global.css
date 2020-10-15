@@ -7,8 +7,8 @@
 body {
   color: #fff;
   background: #ebf2f5;
+  overflow-x: hidden;
 }
-
 body,
 input,
 button,
