@@ -23,6 +23,7 @@
 }
 #page-landing .content-wrapper img {
   width: 250px;
+  margin-top: 20px;
 }
 #page-landing .content-wrapper main {
   max-width: 350px;
