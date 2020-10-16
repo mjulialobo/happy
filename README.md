@@ -15,12 +15,15 @@ shelters close to them and shelters can register themselves.
 <p> Application still under construction </p>
 
 <p> You can find the backend of the application <a href= "https://github.com/mjulialobo/happy-backend"> HERE! </a>
+<p> You can find the mobile of the application <a href= "https://github.com/mjulialobo/happy-mobile"> HERE! </a>
    
 
  <h2><img src="https://static.thenounproject.com/png/25759-200.png"width="50px" height="50px" align="center"/> Results</h2>
 
 <p> Note: gif distorts images and colors </p>
- <h3> Happy</h3>
+ <h3> Happy - Web</h3>
 <img src ="https://user-images.githubusercontent.com/65983895/96079993-70772980-0e8c-11eb-9bde-db7fefc96812.gif"/>
+ <h3> Happy - Mobile </h3>
+<img src ="https://user-images.githubusercontent.com/65983895/96209797-de802700-0f46-11eb-983b-ff9c301ce573.gif"/>
 
 
