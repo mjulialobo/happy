@@ -10,15 +10,6 @@
 </p>
 
 <h2> <img src="https://i.dlpng.com/static/png/6577858_preview.png" width="50px" align="center"/> Como usar?</h2>
-## 🍃 Rotas do Backend
-
-GET - http://localhost:3333/orphanages --> Lista todos os orfanatos <br>
-GET - http://localhost:3333/orphanages/:id --> Lista um orfanato<br>
-POST - http://localhost:3333/orphanages --> Cadastra um novo orfanato<br>
-
----
-
-## 💻 Executando o Happy
 
 ### Pré-requisitos
 
