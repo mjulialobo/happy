@@ -180,6 +180,6 @@ Se você fez tudo corretamente, estás usando a API do mapbox com seu Token na p
  <h3> Happy - Web</h3>
 <img src ="https://user-images.githubusercontent.com/65983895/96079993-70772980-0e8c-11eb-9bde-db7fefc96812.gif"/>
  <h3> Happy - Mobile </h3>
-<img src ="https://user-images.githubusercontent.com/65983895/96209797-de802700-0f46-11eb-983b-ff9c301ce573.gif"/>
+<img src ="https://user-images.githubusercontent.com/65983895/96324304-90772c00-0ff7-11eb-9d65-4a8dc4775155.gif"/>
 
 
